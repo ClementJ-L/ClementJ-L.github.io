@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-size: 50pt;
+}
+ol {
+  font-size: 30pt;
+  color: aqua;
+}
+ul {
+  font-size: 30pt;
+  color: rgb(255, 251, 0);
+}
+#geek {
+  color: rgb(255, 72, 0);
+  font-size: 40pt;
+  font-family: cursive;
+}
+h2 {
+  color: rgb(252, 239, 63);
+  font-size: 30pt;
+  font-family: math;
+}
+img {
+  width: 300px;
+}
