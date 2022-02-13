@@ -1,28 +1,37 @@
 body {
   background-color: black;
 }
+
 h1 {
   color: red;
   font-size: 50pt;
 }
-ol {
-  font-size: 30pt;
-  color: aqua;
-}
+
 ul {
   font-size: 30pt;
-  color: rgb(255, 251, 0);
+  color: rgb(225, 228, 53);
 }
+
 #geek {
-  color: rgb(255, 72, 0);
+  color: rgb(214, 43, 20);
   font-size: 40pt;
   font-family: cursive;
 }
+
 h2 {
   color: rgb(252, 239, 63);
   font-size: 30pt;
   font-family: math;
 }
+
 img {
-  width: 300px;
+  width: 400px;
+}
+
+#passions {
+  width: 700px;
+  margin: 0 auto;
+  background-color: rgb(30, 32, 29);
+  text-align: center;
+  align-content: center;
 }
